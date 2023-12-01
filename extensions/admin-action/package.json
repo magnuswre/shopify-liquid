@@ -1,0 +1,9 @@
+{
+  "name": "admin-action",
+  "private": true,
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@shopify/ui-extensions": "2023.10.x"
+  }
+}
