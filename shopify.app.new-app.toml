@@ -2,7 +2,7 @@
 
 name = "new-app"
 client_id = "d82405c96092d9e5bac708dcd7e69500"
-application_url = "https://strips-brussels-meter-unions.trycloudflare.com"
+application_url = "https://representing-compromise-score-except.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://strips-brussels-meter-unions.trycloudflare.com/auth/callback",
-  "https://strips-brussels-meter-unions.trycloudflare.com/auth/shopify/callback",
-  "https://strips-brussels-meter-unions.trycloudflare.com/api/auth/callback",
-  "https://strips-brussels-meter-unions.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://representing-compromise-score-except.trycloudflare.com/auth/callback",
+  "https://representing-compromise-score-except.trycloudflare.com/auth/shopify/callback",
+  "https://representing-compromise-score-except.trycloudflare.com/api/auth/callback",
+  "https://representing-compromise-score-except.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
