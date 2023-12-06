@@ -2,7 +2,7 @@
 
 name = "new-app"
 client_id = "d82405c96092d9e5bac708dcd7e69500"
-application_url = "https://representing-compromise-score-except.trycloudflare.com"
+application_url = "https://consulting-powered-move-periodic.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://representing-compromise-score-except.trycloudflare.com/auth/callback",
-  "https://representing-compromise-score-except.trycloudflare.com/auth/shopify/callback",
-  "https://representing-compromise-score-except.trycloudflare.com/api/auth/callback",
-  "https://representing-compromise-score-except.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://consulting-powered-move-periodic.trycloudflare.com/auth/callback",
+  "https://consulting-powered-move-periodic.trycloudflare.com/auth/shopify/callback",
+  "https://consulting-powered-move-periodic.trycloudflare.com/api/auth/callback",
+  "https://consulting-powered-move-periodic.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]
