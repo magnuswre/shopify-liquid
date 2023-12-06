@@ -6664,7 +6664,7 @@ var init_components = __esm({
         dangerouslySetInnerHTML: {
           __html: js`
                 function remixLiveReloadConnect(config) {
-                  let REMIX_DEV_ORIGIN = ${JSON.stringify("https://consulting-powered-move-periodic.trycloudflare.com/")};
+                  let REMIX_DEV_ORIGIN = ${JSON.stringify("https://first-translate-lambda-lounge.trycloudflare.com/")};
                   let protocol =
                     REMIX_DEV_ORIGIN ? new URL(REMIX_DEV_ORIGIN).protocol.replace(/^http/, "ws") :
                     location.protocol === "https:" ? "wss:" : "ws:"; // remove in v2?
@@ -8146,4 +8146,4 @@ react-router-dom/dist/index.js:
    * @license MIT
    *)
 */
-//# sourceMappingURL=/build/_shared/chunk-XCYA53LZ.js.map
+//# sourceMappingURL=/build/_shared/chunk-2N2LV74M.js.map

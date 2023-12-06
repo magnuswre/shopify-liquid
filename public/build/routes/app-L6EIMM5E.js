@@ -32,7 +32,7 @@ import {
   redirectDocument,
   useLoaderData,
   useRouteError
-} from "/build/_shared/chunk-XCYA53LZ.js";
+} from "/build/_shared/chunk-2N2LV74M.js";
 import {
   require_jsx_dev_runtime
 } from "/build/_shared/chunk-XU7DNSPJ.js";
@@ -12300,7 +12300,7 @@ var init_memoryUploadHandler = __esm({
 
 // node_modules/@remix-run/server-runtime/dist/esm/dev.js
 async function broadcastDevReady(build, origin) {
-  origin ??= "https://consulting-powered-move-periodic.trycloudflare.com/";
+  origin ??= "https://first-translate-lambda-lounge.trycloudflare.com/";
   if (!origin)
     throw Error("Dev server origin not set");
   let url = new URL(origin);
@@ -17217,4 +17217,4 @@ cookie/index.js:
    * @license MIT
    *)
 */
-//# sourceMappingURL=/build/routes/app-UMOJCZ5P.js.map
+//# sourceMappingURL=/build/routes/app-L6EIMM5E.js.map

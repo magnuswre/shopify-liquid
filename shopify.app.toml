@@ -1,5 +1,9 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
+
+
+
+
 name = "my-app"
 client_id = "b0dfa1ece0b367e0efaf8fa79882cc27"
 application_url = "https://satisfactory-eau-durable-approaches.trycloudflare.com"

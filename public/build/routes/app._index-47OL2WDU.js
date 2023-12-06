@@ -22,7 +22,7 @@ import {
   useActionData,
   useNavigation,
   useSubmit
-} from "/build/_shared/chunk-XCYA53LZ.js";
+} from "/build/_shared/chunk-2N2LV74M.js";
 import {
   require_jsx_dev_runtime
 } from "/build/_shared/chunk-XU7DNSPJ.js";
@@ -392,4 +392,4 @@ window.$RefreshSig$ = prevRefreshSig;
 export {
   Index as default
 };
-//# sourceMappingURL=/build/routes/app._index-PXZAHNF7.js.map
+//# sourceMappingURL=/build/routes/app._index-47OL2WDU.js.map
