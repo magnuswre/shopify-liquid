@@ -1,0 +1,28 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "my-app"
+client_id = "916a0a0ea27d67640446d065bd9151b1"
+application_url = "https://yes-que-investigators-responding.trycloudflare.com"
+embedded = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_products"
+
+[auth]
+redirect_urls = [
+  "https://yes-que-investigators-responding.trycloudflare.com/auth/callback",
+  "https://yes-que-investigators-responding.trycloudflare.com/auth/shopify/callback",
+  "https://yes-que-investigators-responding.trycloudflare.com/api/auth/callback",
+  "https://yes-que-investigators-responding.trycloudflare.com/.shopify/graphiql/auth/callback"
+]
+
+[webhooks]
+api_version = "2023-10"
+
+[pos]
+embedded = false
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "quickstart-dfb7ef0b.myshopify.com"

@@ -2,7 +2,7 @@
 
 name = "my-app"
 client_id = "b0dfa1ece0b367e0efaf8fa79882cc27"
-application_url = "https://location-opponents-cp-initiated.trycloudflare.com"
+application_url = "https://satisfactory-eau-durable-approaches.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,10 +11,10 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://location-opponents-cp-initiated.trycloudflare.com/auth/callback",
-  "https://location-opponents-cp-initiated.trycloudflare.com/auth/shopify/callback",
-  "https://location-opponents-cp-initiated.trycloudflare.com/api/auth/callback",
-  "https://location-opponents-cp-initiated.trycloudflare.com/.shopify/graphiql/auth/callback"
+  "https://satisfactory-eau-durable-approaches.trycloudflare.com/auth/callback",
+  "https://satisfactory-eau-durable-approaches.trycloudflare.com/auth/shopify/callback",
+  "https://satisfactory-eau-durable-approaches.trycloudflare.com/api/auth/callback",
+  "https://satisfactory-eau-durable-approaches.trycloudflare.com/.shopify/graphiql/auth/callback"
 ]
 
 [webhooks]

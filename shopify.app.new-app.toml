@@ -1,0 +1,28 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "new-app"
+client_id = "d82405c96092d9e5bac708dcd7e69500"
+application_url = "https://strips-brussels-meter-unions.trycloudflare.com"
+embedded = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_products"
+
+[auth]
+redirect_urls = [
+  "https://strips-brussels-meter-unions.trycloudflare.com/auth/callback",
+  "https://strips-brussels-meter-unions.trycloudflare.com/auth/shopify/callback",
+  "https://strips-brussels-meter-unions.trycloudflare.com/api/auth/callback",
+  "https://strips-brussels-meter-unions.trycloudflare.com/.shopify/graphiql/auth/callback"
+]
+
+[webhooks]
+api_version = "2023-10"
+
+[pos]
+embedded = false
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "quickstart-400b7fae.myshopify.com"

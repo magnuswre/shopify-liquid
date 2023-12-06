@@ -4,7 +4,7 @@ import {
 import {
   RemixBrowser,
   init_esm
-} from "/build/_shared/chunk-G3I3NEZV.js";
+} from "/build/_shared/chunk-4UPXYDR2.js";
 import {
   require_jsx_dev_runtime
 } from "/build/_shared/chunk-XU7DNSPJ.js";
@@ -37,4 +37,4 @@ var import_jsx_dev_runtime = __toESM(require_jsx_dev_runtime());
     }, this)
   );
 });
-//# sourceMappingURL=/build/entry.client-7LXPSZ56.js.map
+//# sourceMappingURL=/build/entry.client-GJPS6ZIB.js.map
